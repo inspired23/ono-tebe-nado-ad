@@ -42,7 +42,7 @@ a {
   max-width: 240px;
   margin-left: 184px;
   font-size: 18px;
-  font-style: normal;
+  font-style: normal; 
   line-height: 24.3px;
 }
 
@@ -162,7 +162,6 @@ a {
   height: 100%;
   padding: 40px;
   color: white;
-
 }
 
 .card_type_film {
@@ -291,8 +290,9 @@ a {
   align-items: center;
   margin-left: -177px;
   padding: 0;
-  list-style: none;
+  list-style: none;  
 }
+
 
 .footer__menu-link {
   color: black;
@@ -309,7 +309,6 @@ a {
   margin: 0;
   padding: 0;
   list-style: none;
-
 }
 
 .footer__social-list-item {
@@ -328,5 +327,3 @@ a {
   width: 48px;
   height: 48px;
 }
-
-
