@@ -141,12 +141,13 @@
   flex-wrap: wrap;
   list-style: none;
   gap: 25px;
+  justify-content: space-between;
 }
 
 .lots__card-list-item {
-  width: 430px;
+  width: calc(33.33% - 17px);
   min-height: 450px;
-  flex-grow: 1;
+  flex-grow: 0;
 }
 
 .card-link {
