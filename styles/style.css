@@ -123,9 +123,7 @@
 }
 
 .lots {
-  padding-top: 180px;
-  padding-right: 25px;
-  padding-left: 25px;
+  padding: 180px 25px 0;
 }
 
 .lots__heading {
@@ -229,9 +227,7 @@
 }
 
 .about__title {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: -50px;
+  margin: 100px 0 100px -50px;
   font-size: 40px;
   text-transform: uppercase;
 }
