@@ -124,7 +124,9 @@
 }
 
 .lots {
-  padding: 180px 50px 0;
+  padding-top: 180px;
+  padding-right: 25px;
+  padding-left: 25px;  
 }
 
 .lots__heading {
@@ -238,6 +240,7 @@
 .about__text {
   display: flex;
   margin-left: -50px;
+  padding-right: 25px;
   flex-direction: column;
   gap: 25px;
   font-size: 20px;
